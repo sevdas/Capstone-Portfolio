@@ -1,4 +1,4 @@
-This is a single page portfolio application containing the following sections:
+This is a single-page portfolio application containing the following sections:
 
 - A header with external links to social media accounts and internal links to other sections of the page
 - A landing section with an avatar picture and a short bio
@@ -6,7 +6,7 @@ This is a single page portfolio application containing the following sections:
 - A contact me section with a form to allow visitors to contact you
 - Header with show/hide animation depending on the scroll direction.
 
-It is using some popular open source libraries to help it to have more polished and professional looking page.
+It uses some popular open-source libraries to help it to have a more polished and professional-looking page.
 
 ### Libraries
 
